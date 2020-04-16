@@ -1,0 +1,54 @@
+body{
+	background-color: #7FFFD4;
+	margin: 0;
+}
+
+img{
+	max-width: 100px;
+	size: 50px;
+}
+
+#liStyle{
+	text-decoration: none;
+	border-left:2px solid grey; 
+	padding: 0 20px;
+	color: black;
+}
+
+#liStyle2{
+	text-decoration: none;
+	border-left:2px solid grey; 
+	border-right: 2px solid grey;
+	padding: 0 20px;
+	color: black;
+}
+
+#button{
+	background: lightgreen;
+	border-radius: 10px;
+	margin-left: 105px;
+	font-size: 11px;
+  	height: 20px;
+  	width: 50px;
+}
+
+#loginForm{
+	padding-left: 100px;
+}
+
+#id3{
+	border-radius: 10px; 
+	margin-top: 4px;
+	margin-left: 50px;
+}
+.loginBox{
+
+margin: 100px auto auto 500px;
+width: 250px;
+height: 200px;
+border-radius:20px; 
+border-width: 0.1px;
+border-style: solid;
+background-color: #329DA8;
+}
+
