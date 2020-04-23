@@ -1,0 +1,23 @@
+.header{
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	border: 2px solid black;
+}
+
+.header img{
+	background-cover: cover;
+	background-repeat: no-repeat;
+}
+
+.{
+	margin:0;
+	padding: 0;
+}
+.headerText{
+
+}
+
+.headerButtons{
+
+}
